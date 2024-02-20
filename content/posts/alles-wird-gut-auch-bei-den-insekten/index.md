@@ -12,7 +12,11 @@ Die Situation der Insekten in der Schweiz ist beängstigend. In den letzten drei
 
 {{<lead>}}
 
+Robert, Steven und Moritz
+
 <!--EndFragment-->
+
+![Mitten in der Sonderausstellung der kleinen Tierchen in gross. (Quelle: Der Bund-Ausstellung über Insektensterben)](nmbe-insektensterben-kafer.webp)
 
 <!--StartFragment-->
 
